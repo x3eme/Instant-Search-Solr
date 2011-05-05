@@ -8,7 +8,7 @@ body, html {
 
 }
 
-#search_field {
+#q {
 	width: 400px;
 	font-size: 18px;
 	padding: 2px;
